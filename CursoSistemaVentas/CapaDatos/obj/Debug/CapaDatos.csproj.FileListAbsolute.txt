@@ -1,0 +1,9 @@
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\practicas.soporte\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
